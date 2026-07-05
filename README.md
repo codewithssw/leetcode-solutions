@@ -1,6 +1,6 @@
 # 🚀 Code with SSW — LeetCode Solutions
 
-Welcome to my personal LeetCode training ground! I am an IT undergraduate student using this channel as a lab to sharpen my programming logic, practice my presentation skills, and share my coding journey.
+Welcome to my personal LeetCode training ground! I am an IT undergraduate student (Y2S2) using this channel as a lab to sharpen my programming logic, practice my presentation skills, and share my coding journey.
 
 On this repository, I host the source code for the problems I solve and discuss on my YouTube channel. 
 
@@ -16,9 +16,9 @@ Watch the step-by-step code and logic walkthroughs here:
 
 Here is the tracking list of the LeetCode problems I have tackled so far:
 
-| Problem # | Problem Name | Approach Used   | Time Complexity | Language | Solution Link            |
-|----------------------------------------------------------------------------------------------------|
-| 1         | Two Sum      | Nested For Loop | $O(n^2)$        | Python   | [View Code](./Two_Sum.py) |
+| Problem # | Problem Name | Approach Used | Time Complexity | Language | Solution Link |
+| :---: | :--- | :--- | :---: | :---: | :---: |
+| 1 | Two Sum | Nested For Loop | $O(n^2)$ | Python | [View Code](./Two_Sum.py) |
 
 *More coding challenges will be added as I continue my training!*
 
