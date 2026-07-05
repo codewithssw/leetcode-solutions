@@ -1,6 +1,6 @@
 # 🚀 Code with SSW — LeetCode Solutions
 
-Welcome to my personal LeetCode training ground! I am an IT undergraduate student (Y2S2) using this channel as a lab to sharpen my programming logic, practice my presentation skills, and share my coding journey.
+Welcome to my personal LeetCode training ground! I am an IT undergraduate student using this channel as a lab to sharpen my programming logic, practice my presentation skills, and share my coding journey.
 
 On this repository, I host the source code for the problems I solve and discuss on my YouTube channel. 
 
