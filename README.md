@@ -20,7 +20,7 @@ Here is the tracking list of the LeetCode problems I have tackled so far:
 | Problem # | Problem Name | Approach Used | Time Complexity | Language | Solution Link |
 | :---: | :--- | :--- | :---: | :---: | :---: |
 | 1 | Two Sum | Nested For Loop | $O(n^2)$ | Python | [View Code](./Two_Sum.py) |
-| 1512 | Number of Good Pairs | Hash Map Lookup | $O(n)$ | Python | [View Code](./Num_of_Good_Pairs.py) |
+| 1512 | Number of Good Pairs | Hash Map Lookup | $O(n)$ | Python | [View Code](./Num_Of_Good_Pairs.py) |
 | 3760 | Maximum Substrings With Distinct Start | Hash Table Tracking | $O(n)$ | Python | [View Code](./Max_Distinct.py) |
 
 
